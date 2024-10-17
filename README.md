@@ -25,7 +25,7 @@
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
    - Research on Maintenance of 20 kV Cubicle in Pemalang
-#### 3. [PT. Huawei Tech Investment](https://www.banknagari.co.id) | IT Staff | Padang `June'2011 - July ' 2016`
+#### 3. [PT. Bank Pembangunan Daerah Sumatera Barat - Bank Nagari](https://www.banknagari.co.id) | IT Staff | Padang `June'2011 - July ' 2016`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
@@ -45,11 +45,11 @@
 
 ---
 ### Connect with me:
-
-
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rio-andika-malik-3a3375209/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rio-andika-malik-3a3375209/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rio-malik#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rio-malik#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/riomalik#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/rio-malik#gh-dark-mode-only)
