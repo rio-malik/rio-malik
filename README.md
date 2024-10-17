@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Rio Andika Malik - aka [rio-malik](https://instagram.com/riomalik) 👋
 ## About me:
 - 🔭 I’m currently working as Lecturer and IT Consultant
 - 🌱 I’m currently learning Python and Javascript
@@ -45,11 +45,9 @@
 
 ---
 ### Connect with me:
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rio-andika-malik-3a3375209/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rio-andika-malik-3a3375209/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rio-malik#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rio-malik#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/riomalik#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/rio-malik#gh-dark-mode-only)
